@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SPN_Cmn_Dlg_Main</class>
+ <widget class="QDialog" name="SPN_Cmn_Dlg_Main">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>570</width>
+    <height>369</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dlg_Main</string>
+  </property>
+  <widget class="QCheckBox" name="Chk_DoSlash">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>30</y>
+     <width>91</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>DoSlash</string>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="BtnRad_MPR">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>60</y>
+     <width>89</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>MPR</string>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="BtnRad_DRR">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>90</y>
+     <width>89</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>DRR</string>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="BtnRad_MaxIP">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>120</y>
+     <width>89</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>MaxIP</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="Chk_GammaMap">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>150</y>
+     <width>87</width>
+     <height>19</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>GammaMap</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
