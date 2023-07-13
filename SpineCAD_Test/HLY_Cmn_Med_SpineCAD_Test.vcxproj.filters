@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ModuFrm">
+      <UniqueIdentifier>{0eeab0bd-e0a6-41b7-a456-cb88fc6f53ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Working">
+      <UniqueIdentifier>{eac28c41-cb4b-4840-939e-86447ab24a17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mx">
+      <UniqueIdentifier>{1a5e4552-df4a-4a37-b308-ddaad492afe1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VC">
+      <UniqueIdentifier>{8802fac0-8a52-4b6b-be1c-7cc2a59aedb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VV">
+      <UniqueIdentifier>{119d3531-c32b-449f-9fc5-a75275150ac6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VV\Form">
+      <UniqueIdentifier>{a2ebdc8a-4bef-43c2-b8bf-3b2b6d3f750d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cx">
+      <UniqueIdentifier>{ce17f23a-f9e9-4f55-a2ef-72dc13c34b31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MV">
+      <UniqueIdentifier>{70e87a49-89ee-4cae-85e9-8302a9ace85e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>ModuFrm</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_Cmn_Med_SpineCAD.cpp">
+      <Filter>VC</Filter>
+    </ClCompile>
+    <ClCompile Include="ItkLib_Import.cxx">
+      <Filter>ModuFrm</Filter>
+    </ClCompile>
+    <ClCompile Include="vtklib_Import.cxx">
+      <Filter>ModuFrm</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_Cmn_Dlg_DbgImg.cpp">
+      <Filter>VV</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_Cmn_DlgPane_3D.cpp">
+      <Filter>VV</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_Cmn_DlgPane_ShowPic.cpp">
+      <Filter>VV</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_Cmn_DirFileOp.cxx">
+      <Filter>Mx</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_Cmn_FileDir_Filter.cxx">
+      <Filter>Mx</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_Cmn_WString.cxx">
+      <Filter>Mx</Filter>
+    </ClCompile>
+    <ClCompile Include="CSPN_Cmn_Mx_Demo_3DMtx.cpp">
+      <Filter>Mx</Filter>
+    </ClCompile>
+    <ClCompile Include="CSPN_Cmn_Mx_Demo_Animate.cpp">
+      <Filter>Mx</Filter>
+    </ClCompile>
+    <ClCompile Include="CSPN_Cmn_MD_ItkDcm_Dir3D.cpp">
+      <Filter>Mx</Filter>
+    </ClCompile>
+    <ClCompile Include="CSPN_Cmn_MD_ItkDcmReader.cpp">
+      <Filter>Mx</Filter>
+    </ClCompile>
+    <ClCompile Include="CSPN_Cmn_MV3D_CrsLn.cpp">
+      <Filter>MV</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_Cmn_Dlg_Main.cpp">
+      <Filter>VV</Filter>
+    </ClCompile>
+    <ClCompile Include="TestVtkItk.cpp">
+      <Filter>MV</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Cx</Filter>
+    </ClCompile>
+    <ClCompile Include="CSPN_Cmn_MV3D_SR.cpp">
+      <Filter>MV</Filter>
+    </ClCompile>
+    <ClCompile Include="CSPN_Cmn_MV3D_VR.cpp">
+      <Filter>MV</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_Cmn_Wnd_Vtk3D.cpp">
+      <Filter>VV</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>ModuFrm</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib_Rslt\Includes\All_Entry\_SPN_Cmn_Math__Include.h">
+      <Filter>ModuFrm</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_Cmn_DirFileOp.h">
+      <Filter>Mx</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_Cmn_FileDir_Filter.h">
+      <Filter>Mx</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_Cmn_WString.h">
+      <Filter>Mx</Filter>
+    </ClInclude>
+    <ClInclude Include="CSPN_Cmn_MD_ItkDcm_Dir3D.h">
+      <Filter>Mx</Filter>
+    </ClInclude>
+    <ClInclude Include="CSPN_Cmn_MD_ItkDcmReader.h">
+      <Filter>Mx</Filter>
+    </ClInclude>
+    <ClInclude Include="CSPN_Cmn_MV3D_CrsLn.h">
+      <Filter>MV</Filter>
+    </ClInclude>
+    <ClInclude Include="TestVtkItk.h">
+      <Filter>MV</Filter>
+    </ClInclude>
+    <ClInclude Include="CSPN_Cmn_MV3D_SR.h">
+      <Filter>MV</Filter>
+    </ClInclude>
+    <ClInclude Include="CSPN_Cmn_MV3D_VR.h">
+      <Filter>MV</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="SPN_Cmn_Dlg_DbgImg.ui">
+      <Filter>VV\Form</Filter>
+    </QtUic>
+    <QtUic Include="SPN_Cmn_Dlg_Main.ui">
+      <Filter>VV\Form</Filter>
+    </QtUic>
+    <QtUic Include="SPN_Cmn_DlgPane_ShowPic.ui">
+      <Filter>VV\Form</Filter>
+    </QtUic>
+    <QtUic Include="SPN_Cmn_Med_SpineCAD.ui">
+      <Filter>VV\Form</Filter>
+    </QtUic>
+    <QtUic Include="SPN_Cmn_Wnd_Vtk3D.ui">
+      <Filter>VV\Form</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="SPN_Cmn_Med_SpineCAD.h">
+      <Filter>VC</Filter>
+    </QtMoc>
+    <QtMoc Include="SPN_Cmn_Dlg_DbgImg.h">
+      <Filter>VV</Filter>
+    </QtMoc>
+    <QtMoc Include="SPN_Cmn_DlgPane_3D.h">
+      <Filter>VV</Filter>
+    </QtMoc>
+    <QtMoc Include="SPN_Cmn_DlgPane_ShowPic.h">
+      <Filter>VV</Filter>
+    </QtMoc>
+    <QtMoc Include="CSPN_Cmn_Mx_Demo_3DMtx.h">
+      <Filter>Mx</Filter>
+    </QtMoc>
+    <QtMoc Include="CSPN_Cmn_Mx_Demo_Animate.h">
+      <Filter>Mx</Filter>
+    </QtMoc>
+    <QtMoc Include="SPN_Cmn_Dlg_Main.h">
+      <Filter>VV</Filter>
+    </QtMoc>
+    <QtMoc Include="SPN_Cmn_Wnd_Vtk3D.h">
+      <Filter>VV</Filter>
+    </QtMoc>
+  </ItemGroup>
+</Project>

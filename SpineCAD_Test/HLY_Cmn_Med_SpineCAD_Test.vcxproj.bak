@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RLSwDBG|x64">
+      <Configuration>RLSwDBG</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CSPN_Cmn_MD_ItkDcmReader.cpp" />
+    <ClCompile Include="CSPN_Cmn_MD_ItkDcm_Dir3D.cpp" />
+    <ClCompile Include="CSPN_Cmn_MV3D_CrsLn.cpp" />
+    <ClCompile Include="CSPN_Cmn_MV3D_SR.cpp" />
+    <ClCompile Include="CSPN_Cmn_MV3D_VR.cpp" />
+    <ClCompile Include="CSPN_Cmn_Mx_Demo_3DMtx.cpp" />
+    <ClCompile Include="CSPN_Cmn_Mx_Demo_Animate.cpp" />
+    <ClCompile Include="SPN_Cmn_Wnd_Vtk3D.cpp" />
+    <ClCompile Include="SPN_Cmn_WString.cxx" />
+    <ClCompile Include="ItkLib_Import.cxx" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="pch.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='RLSwDBG|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="SPN_Cmn_DirFileOp.cxx" />
+    <ClCompile Include="SPN_Cmn_DlgPane_3D.cpp" />
+    <ClCompile Include="SPN_Cmn_DlgPane_ShowPic.cpp" />
+    <ClCompile Include="SPN_Cmn_Dlg_DbgImg.cpp" />
+    <ClCompile Include="SPN_Cmn_Dlg_Main.cpp" />
+    <ClCompile Include="SPN_Cmn_FileDir_Filter.cxx" />
+    <ClCompile Include="SPN_Cmn_Med_SpineCAD.cpp" />
+    <ClCompile Include="TestVtkItk.cpp" />
+    <ClCompile Include="vtklib_Import.cxx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Lib_Rslt\Includes\All_Entry\_SPN_Cmn_Math__Include.h" />
+    <ClInclude Include="CSPN_Cmn_MD_ItkDcmReader.h" />
+    <ClInclude Include="CSPN_Cmn_MD_ItkDcm_Dir3D.h" />
+    <ClInclude Include="CSPN_Cmn_MV3D_CrsLn.h" />
+    <ClInclude Include="CSPN_Cmn_MV3D_SR.h" />
+    <ClInclude Include="CSPN_Cmn_MV3D_VR.h" />
+    <ClInclude Include="x64\Debug\uic\ui_SPN_Cmn_Wnd_Vtk3D.h" />
+    <QtMoc Include="SPN_Cmn_Wnd_Vtk3D.h" />
+    <ClInclude Include="SPN_Cmn_WString.h" />
+    <ClInclude Include="SPN_Cmn_FileDir_Filter.h" />
+    <ClInclude Include="TestVtkItk.h" />
+    <ClInclude Include="x64\Debug\uic\ui_SPN_Cmn_DlgPane_ShowPic.h" />
+    <ClInclude Include="x64\Debug\uic\ui_SPN_Cmn_Dlg_DbgImg.h" />
+    <ClInclude Include="x64\Debug\uic\ui_SPN_Cmn_Dlg_Main.h" />
+    <ClInclude Include="x64\Debug\uic\ui_SPN_Cmn_Med_SpineCAD.h" />
+    <QtMoc Include="SPN_Cmn_DlgPane_3D.h" />
+    <QtMoc Include="CSPN_Cmn_Mx_Demo_Animate.h" />
+    <QtMoc Include="CSPN_Cmn_Mx_Demo_3DMtx.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="SPN_Cmn_DirFileOp.h" />
+    <QtMoc Include="SPN_Cmn_Med_SpineCAD.h" />
+    <QtMoc Include="SPN_Cmn_DlgPane_ShowPic.h" />
+    <QtMoc Include="SPN_Cmn_Dlg_Main.h" />
+    <QtMoc Include="SPN_Cmn_Dlg_DbgImg.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="SPN_Cmn_DlgPane_ShowPic.ui" />
+    <QtUic Include="SPN_Cmn_Dlg_DbgImg.ui" />
+    <QtUic Include="SPN_Cmn_Dlg_Main.ui" />
+    <QtUic Include="SPN_Cmn_Med_SpineCAD.ui" />
+    <QtUic Include="SPN_Cmn_Wnd_Vtk3D.ui" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{96FE485F-9187-4BFF-8AA6-A8E4F24EE6F4}</ProjectGuid>
+    <Keyword>QtVS_v304</Keyword>
+    <WindowsTargetPlatformVersion Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">10.0.17763.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">10.0.17763.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion Condition="'$(Configuration)|$(Platform)'=='RLSwDBG|x64'">10.0.17763.0</WindowsTargetPlatformVersion>
+    <QtMsBuild Condition="'$(QtMsBuild)'=='' OR !Exists('$(QtMsBuild)\qt.targets')">$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RLSwDBG|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Condition="Exists('$(QtMsBuild)\qt_defaults.props')">
+    <Import Project="$(QtMsBuild)\qt_defaults.props" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'" Label="QtSettings">
+    <QtInstall>5.12.5_msvc2017_64</QtInstall>
+    <QtModules>core;gui;widgets</QtModules>
+    <QtBuildConfig>debug</QtBuildConfig>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'" Label="QtSettings">
+    <QtInstall>5.12.5_msvc2017_64</QtInstall>
+    <QtModules>core;gui;widgets</QtModules>
+    <QtBuildConfig>release</QtBuildConfig>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RLSwDBG|x64'" Label="QtSettings">
+    <QtInstall>5.12.5_msvc2017_64</QtInstall>
+    <QtModules>core;gui;widgets</QtModules>
+    <QtBuildConfig>release</QtBuildConfig>
+  </PropertyGroup>
+  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') or !Exists('$(QtMsBuild)\qt.props')">
+    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />
+  </Target>
+  <ImportGroup Label="ExtensionSettings" />
+  <ImportGroup Label="Shared" />
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(QtMsBuild)\Qt.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(QtMsBuild)\Qt.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='RLSwDBG|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(QtMsBuild)\Qt.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <OutDir>$(SolutionDir)Lib_Rslt\bin\$(Platform)\$(Configuration)\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RLSwDBG|x64'">
+    <OutDir>$(SolutionDir)Lib_Rslt\bin\$(Platform)\$(Configuration)\</OutDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <OpenMPSupport>true</OpenMPSupport>
+      <AdditionalIncludeDirectories>D:\_SpineCAD\1_Dev\MedTk\boost_1_74_0;D:\_SpineCAD\1_Dev\MedTk\VTK_8.2.0_lib\include\vtk-8.2;D:\_SpineCAD\1_Dev\MedTk\itk_4.12.2_RLS\include\ITK-4.12;D:\_SpineCAD\1_Dev\HLY_Med_SpineCAD\HLY_Med_SpineCAD\Lib_Rslt\Includes\All_Entry;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <PreprocessorDefinitions>SPN_CMN_MATH__USE_STC_LIB;$(Qt_DEFINES_);%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>D:\_SpineCAD\1_Dev\MedTk\boost_1_74_0\bin.v2\libs\locale\build\msvc-14.1\debug\address-model-64\link-static\threading-multi;$(SolutionDir)Lib_Rslt\lib\$(Platform)\$(Configuration)\</AdditionalLibraryDirectories>
+      <AdditionalDependencies>HLY_Cmn_Math.lib;%(AdditionalDependencies);$(Qt_LIBS_)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RLSwDBG|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>D:\_SpineCAD\1_Dev\MedTk\boost_1_74_0;D:\_SpineCAD\1_Dev\MedTk\VTK_8.2.0_lib\include\vtk-8.2;D:\_SpineCAD\1_Dev\MedTk\itk_4.12.2_RLS\include\ITK-4.12;D:\_SpineCAD\1_Dev\HLY_Med_SpineCAD\HLY_Med_SpineCAD\Lib_Rslt\Includes\All_Entry;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <PreprocessorDefinitions>SPN_CMN_MATH__USE_STC_LIB;$(Qt_DEFINES_);%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ShowIncludes>true</ShowIncludes>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>HLY_Cmn_Math.lib;%(AdditionalDependencies);$(Qt_LIBS_)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>D:\_SpineCAD\1_Dev\MedTk\boost_1_74_0\bin.v2\libs\locale\build\msvc-14.1\release\address-model-64\link-static\threading-multi;D:\_SpineCAD\1_Dev\HLY_Med_SpineCAD\HLY_Med_SpineCAD\Lib_Rslt\bin\x64\RLSwDBG</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'" Label="Configuration">
+    <ClCompile>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <Optimization>Disabled</Optimization>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'" Label="Configuration">
+    <ClCompile>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <DebugInformationFormat>None</DebugInformationFormat>
+      <Optimization>MaxSpeed</Optimization>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RLSwDBG|x64'" Label="Configuration">
+    <ClCompile>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <Optimization>Disabled</Optimization>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">
+    <Import Project="$(QtMsBuild)\qt.targets" />
+  </ImportGroup>
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
