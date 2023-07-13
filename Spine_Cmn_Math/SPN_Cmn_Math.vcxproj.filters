@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="CoreWork">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="ModFrm">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="_from_VC">
+      <UniqueIdentifier>{e0dd9266-4ffd-40a5-93e0-402f3ccc878c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>ModFrm</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>ModFrm</Filter>
+    </ClInclude>
+    <ClInclude Include="tmp.h">
+      <Filter>ModFrm</Filter>
+    </ClInclude>
+    <ClInclude Include="_From_atlTypes.h">
+      <Filter>_from_VC</Filter>
+    </ClInclude>
+    <ClInclude Include="_From_MFC_afxtempl.h">
+      <Filter>_from_VC</Filter>
+    </ClInclude>
+    <ClInclude Include="_From_MFC_intsafe.h">
+      <Filter>_from_VC</Filter>
+    </ClInclude>
+    <ClInclude Include="_From_MFC_minWinDef.h">
+      <Filter>_from_VC</Filter>
+    </ClInclude>
+    <ClInclude Include="_From_MFC_windef.h">
+      <Filter>_from_VC</Filter>
+    </ClInclude>
+    <ClInclude Include="_From_MFC_wtypes.h">
+      <Filter>_from_VC</Filter>
+    </ClInclude>
+    <ClInclude Include="_From_VC_to_QT.h">
+      <Filter>_from_VC</Filter>
+    </ClInclude>
+    <ClInclude Include="_SPN_Cmn_Math__Global.h">
+      <Filter>ModFrm</Filter>
+    </ClInclude>
+    <ClInclude Include="_SPN_Cmn_Math__AllExport.h">
+      <Filter>ModFrm</Filter>
+    </ClInclude>
+    <ClInclude Include="_SPN_Cmn_Math.h">
+      <Filter>ModFrm</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_Cmn_Science.h">
+      <Filter>CoreWork</Filter>
+    </ClInclude>
+    <ClInclude Include="_include_QT.h">
+      <Filter>CoreWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_Cmn_Math_Base.h">
+      <Filter>CoreWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_CMN_2DLine.h">
+      <Filter>CoreWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_CMN_2DPoint.h">
+      <Filter>CoreWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_CMN_2DRect.h">
+      <Filter>CoreWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_CMN_2DSize.h">
+      <Filter>CoreWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_CMN_3DCuboid.h">
+      <Filter>CoreWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_CMN_3DLine.h">
+      <Filter>CoreWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_Cmn_3DMtx_Grid.h">
+      <Filter>CoreWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_CMN_3DPlane.h">
+      <Filter>CoreWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_CMN_3DPoint.h">
+      <Filter>CoreWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_Cmn_CArray.h">
+      <Filter>CoreWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_Cmn_Math_Const.h">
+      <Filter>CoreWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_Cmn_MATRIX.h">
+      <Filter>CoreWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_Cmn_3DMtx.h">
+      <Filter>CoreWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_Cmn_LUT_Arr.h">
+      <Filter>CoreWork</Filter>
+    </ClInclude>
+    <ClInclude Include="_SPN_Cmn_Math__inLib.h">
+      <Filter>ModFrm</Filter>
+    </ClInclude>
+    <ClInclude Include="_SPN_Cmn_Math__Include.h">
+      <Filter>ModFrm</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_Cmn_GUI_CoordSvr.h">
+      <Filter>CoreWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SPN_Cmn_AttrSet.h">
+      <Filter>CoreWork</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>ModFrm</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_CMN_2DLine.cxx">
+      <Filter>CoreWork</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_CMN_2DPoint.cxx">
+      <Filter>CoreWork</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_CMN_2DRect.cxx">
+      <Filter>CoreWork</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_CMN_2DSize.cxx">
+      <Filter>CoreWork</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_CMN_3DCuboid.cxx">
+      <Filter>CoreWork</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_CMN_3DLine.cxx">
+      <Filter>CoreWork</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_CMN_3DPlane.cxx">
+      <Filter>CoreWork</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_CMN_3DPoint.cxx">
+      <Filter>CoreWork</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_CMN_Science.cxx">
+      <Filter>CoreWork</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_Cmn_3DMtx.cxx">
+      <Filter>CoreWork</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_Cmn_GUI_CoordSvr.cxx">
+      <Filter>CoreWork</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_Cmn_Math.cpp">
+      <Filter>CoreWork</Filter>
+    </ClCompile>
+    <ClCompile Include="SPN_Cmn_AttrSet.cxx">
+      <Filter>CoreWork</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
