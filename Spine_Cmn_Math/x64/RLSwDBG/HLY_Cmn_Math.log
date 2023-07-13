@@ -1,0 +1,1073 @@
+﻿  pch.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  SPN_CMN_2DLine.cxx
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  注意: 包含文件:  d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\spn_cmn_math\_SPN_Cmn_Math__inLib.h
+  注意: 包含文件:   D:\_SpineCAD\1_Dev\HLY_Med_SpineCAD\HLY_Med_SpineCAD\Lib_Rslt\Includes\All_Entry\_SPN_Cmn_Math__Include.h
+  define SPN_CMN_MATH__MAKE_STC_LIB in Compiling OKd:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  11111111111111111111111111111111d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  注意: 包含文件:    d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\../Spn_Cmn_Math__Include/_SPN_Cmn_Math__AllExport.h
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_SPN_Cmn_MATH__Global.h
+  注意: 包含文件:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\assert.h
+  注意: 包含文件:      d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_include_QT.h
+  注意: 包含文件:       D:\Qt\5.12.5\msvc2017_64\include\QtCore\qglobal.h
+  注意: 包含文件:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\assert.h
+  注意: 包含文件:        D:\Qt\5.12.5\msvc2017_64\include\QtCore/qconfig.h
+  注意: 包含文件:        D:\Qt\5.12.5\msvc2017_64\include\QtCore/qtcore-config.h
+  注意: 包含文件:        D:\Qt\5.12.5\msvc2017_64\include\QtCore/qsystemdetection.h
+  注意: 包含文件:        D:\Qt\5.12.5\msvc2017_64\include\QtCore/qprocessordetection.h
+  注意: 包含文件:        D:\Qt\5.12.5\msvc2017_64\include\QtCore/qcompilerdetection.h
+  注意: 包含文件:        D:\Qt\5.12.5\msvc2017_64\include\QtCore/qtypeinfo.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/qglobal.h
+  注意: 包含文件:        D:\Qt\5.12.5\msvc2017_64\include\QtCore/qsysinfo.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/qglobal.h
+  注意: 包含文件:        D:\Qt\5.12.5\msvc2017_64\include\QtCore/qlogging.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/qglobal.h
+  注意: 包含文件:        D:\Qt\5.12.5\msvc2017_64\include\QtCore/qflags.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/qglobal.h
+  注意: 包含文件:        D:\Qt\5.12.5\msvc2017_64\include\QtCore/qatomic.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/qglobal.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/qbasicatomic.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtCore/qglobal.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtCore/qatomic_cxx11.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qgenericatomic.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qglobal.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qtypeinfo.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qglobal.h
+  注意: 包含文件:           C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\atomic
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xatomic.h
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xxatomic
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xxatomic
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xxatomic
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xxatomic
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xxatomic
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xxatomic
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xxatomic
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xxatomic
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xxatomic
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xxatomic
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xxatomic
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xxatomic
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xxatomic
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xxatomic
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xxatomic
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xxatomic
+  注意: 包含文件:        D:\Qt\5.12.5\msvc2017_64\include\QtCore/qglobalstatic.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/qglobal.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/qatomic.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtCore/qglobal.h
+  注意: 包含文件:        D:\Qt\5.12.5\msvc2017_64\include\QtCore/qnumeric.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/qglobal.h
+  注意: 包含文件:        D:\Qt\5.12.5\msvc2017_64\include\QtCore/qversiontagging.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/qglobal.h
+  注意: 包含文件:       D:\Qt\5.12.5\msvc2017_64\include\QtGui\QtGui
+  注意: 包含文件:        D:\Qt\5.12.5\msvc2017_64\include\QtGui/QtGuiDepends
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/QtCore
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtCore/QtCoreDepends
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qabstractanimation.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qobject.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qobjectdefs.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qnamespace.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qobjectdefs_impl.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstring.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qchar.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qbytearray.h
+  注意: 包含文件:              D:\Qt\5.12.5\msvc2017_64\include\QtCore/qrefcount.h
+  注意: 包含文件:               D:\Qt\5.12.5\msvc2017_64\include\QtCore/qatomic.h
+  注意: 包含文件:              D:\Qt\5.12.5\msvc2017_64\include\QtCore/qarraydata.h
+  注意: 包含文件:              C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\stdarg.h
+  注意: 包含文件:              C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\iterator
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringliteral.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringalgorithms.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringview.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qlist.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qalgorithms.h
+  注意: 包含文件:              C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\intrin.h
+  注意: 包含文件:               C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\setjmp.h
+  注意: 包含文件:               C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\immintrin.h
+  注意: 包含文件:                C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\wmmintrin.h
+  注意: 包含文件:                 C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\nmmintrin.h
+  注意: 包含文件:                  C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\smmintrin.h
+  注意: 包含文件:                   C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\tmmintrin.h
+  注意: 包含文件:                    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\pmmintrin.h
+  注意: 包含文件:                     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\emmintrin.h
+  注意: 包含文件:                      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xmmintrin.h
+  注意: 包含文件:                       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\mmintrin.h
+  注意: 包含文件:                C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\zmmintrin.h
+  注意: 包含文件:               C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\ammintrin.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qiterator.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qhashfunctions.h
+  注意: 包含文件:              D:\Qt\5.12.5\msvc2017_64\include\QtCore/qpair.h
+  注意: 包含文件:              C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\numeric
+  注意: 包含文件:             C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\list
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qbytearraylist.h
+  注意: 包含文件:              D:\Qt\5.12.5\msvc2017_64\include\QtCore/qlist.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringlist.h
+  注意: 包含文件:              D:\Qt\5.12.5\msvc2017_64\include\QtCore/qlist.h
+  注意: 包含文件:              D:\Qt\5.12.5\msvc2017_64\include\QtCore/qregexp.h
+  注意: 包含文件:              D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringmatcher.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qscopedpointer.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qmetatype.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qatomic.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qvarlengtharray.h
+  注意: 包含文件:              D:\Qt\5.12.5\msvc2017_64\include\QtCore/qcontainerfwd.h
+  注意: 包含文件:             C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\vector
+  注意: 包含文件:             C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\map
+  注意: 包含文件:              C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\tuple
+  注意: 包含文件:              C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xtree
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qobject_impl.h
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\chrono
+  注意: 包含文件:             C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\ratio
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\time.h
+  注意: 包含文件:             C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\thr/xtimec.h
+  注意: 包含文件:              C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\thr/xthrcommon.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qabstracteventdispatcher.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qeventloop.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qabstractitemmodel.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qvariant.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qatomic.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qmap.h
+  注意: 包含文件:             C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\functional
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qhash.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringlist.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qbytearraylist.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qvector.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qpoint.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qabstractnativeeventfilter.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qabstractproxymodel.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qabstractstate.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qabstracttransition.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qanimationgroup.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qarraydataops.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qarraydatapointer.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qatomic.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qbasictimer.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qbitarray.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qbuffer.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qiodevice.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qbytearraylist.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qbytearraymatcher.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qcache.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qcborarray.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qcborvalue.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qdatetime.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qshareddata.h
+  注意: 包含文件:              D:\Qt\5.12.5\msvc2017_64\include\QtCore/qatomic.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qcborcommon.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qdebug.h
+  注意: 包含文件:              D:\Qt\5.12.5\msvc2017_64\include\QtCore/qtextstream.h
+  注意: 包含文件:               D:\Qt\5.12.5\msvc2017_64\include\QtCore/qlocale.h
+  注意: 包含文件:              D:\Qt\5.12.5\msvc2017_64\include\QtCore/qset.h
+  注意: 包含文件:              D:\Qt\5.12.5\msvc2017_64\include\QtCore/qcontiguouscache.h
+  注意: 包含文件:               D:\Qt\5.12.5\msvc2017_64\include\QtCore/qatomic.h
+  注意: 包含文件:              D:\Qt\5.12.5\msvc2017_64\include\QtCore/qsharedpointer.h
+  注意: 包含文件:               D:\Qt\5.12.5\msvc2017_64\include\QtCore/qatomic.h
+  注意: 包含文件:               D:\Qt\5.12.5\msvc2017_64\include\QtCore/qsharedpointer_impl.h
+  注意: 包含文件:                D:\Qt\5.12.5\msvc2017_64\include\QtCore/qatomic.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qregularexpression.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringlist.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qurl.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/quuid.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qcbormap.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qcborstream.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qfloat16.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qcollator.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringlist.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qcommandlineoption.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringlist.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qcommandlineparser.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringlist.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qcoreapplication.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qcoreevent.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qcompilerdetection.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qcryptographichash.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qdatastream.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qdeadlinetimer.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qelapsedtimer.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qdir.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qfileinfo.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qfile.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qfiledevice.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringlist.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qdiriterator.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qeasingcurve.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qendian.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qeventtransition.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qexception.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qatomic.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qfactoryinterface.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringlist.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qfileselector.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/QObject
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/QStringList
+  注意: 包含文件:            d:\qt\5.12.5\msvc2017_64\include\qtcore\qstringlist.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qfilesystemwatcher.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qfinalstate.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qflags.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qfuture.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qfutureinterface.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qrunnable.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qmutex.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtCore/qatomic.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qresultstore.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qfuturesynchronizer.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qfuturewatcher.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qglobalstatic.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qhistorystate.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qidentityproxymodel.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qisenum.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qitemselectionmodel.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qjsonarray.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qjsonvalue.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qjsondocument.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qjsonobject.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qlibrary.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qlibraryinfo.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qversionnumber.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qtypeinfo.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qline.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qlinkedlist.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qlockfile.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qloggingcategory.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qmargins.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qmath.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qmessageauthenticationcode.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qmetaobject.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qmimedata.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qmimedatabase.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qmimetype.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringlist.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qobjectcleanuphandler.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qoperatingsystemversion.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qparallelanimationgroup.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qpauseanimation.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qplugin.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qpointer.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qtypeinfo.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qpluginloader.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qprocess.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringlist.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qprocessordetection.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qpropertyanimation.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qvariantanimation.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qqueue.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qrandom.h
+  注意: 包含文件:           C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\random
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qreadwritelock.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qrect.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qsize.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qresource.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringlist.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qsavefile.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qscopedvaluerollback.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qscopeguard.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qsemaphore.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qsequentialanimationgroup.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qsettings.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qsharedmemory.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qsignalmapper.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qsignaltransition.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qsocketnotifier.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qsortfilterproxymodel.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qstack.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qstandardpaths.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringlist.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qstate.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qstatemachine.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qstorageinfo.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qstringbuilder.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qstringlist.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qstringlistmodel.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringlist.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qsysinfo.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qsystemdetection.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qsystemsemaphore.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qtemporarydir.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qtemporaryfile.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qtextboundaryfinder.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qtextcodec.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qthread.h
+  注意: 包含文件:           C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\future
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\condition_variable
+  注意: 包含文件:             C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\thr/xthread
+  注意: 包含文件:              C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\thr/xtime
+  注意: 包含文件:              C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\thr/xthreads.h
+  注意: 包含文件:             C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\mutex
+  注意: 包含文件:              C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\thread
+  注意: 包含文件:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\ppltasks.h
+  注意: 包含文件:             C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\pplwin.h
+  注意: 包含文件:              C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\pplinterface.h
+  注意: 包含文件:              C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\ppltaskscheduler.h
+  注意: 包含文件:               C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\crtdefs.h
+  注意: 包含文件:              C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\pplcancellation_token.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qthreadpool.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qthreadstorage.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qtimeline.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qtimer.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qtimezone.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qtranslator.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qtypeinfo.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qtypetraits.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qurlquery.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qversiontagging.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qwaitcondition.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qwineventnotifier.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qxmlstream.h
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtcore\qtcoreversion.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qtguiglobal.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/qtgui-config.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qabstracttextdocumentlayout.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/qtextlayout.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtGui/qcolor.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtGui/qrgb.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qprocessordetection.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringlist.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtGui/qrgba64.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qprocessordetection.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtGui/qevent.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtGui/qwindowdefs.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtGui/qwindowdefs_win.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtGui/qregion.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtCore/qatomic.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtGui/qkeysequence.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtGui/qvector2d.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtGui/qtouchdevice.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtGui/qtextformat.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtGui/qfont.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtGui/qpen.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtGui/qbrush.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtGui/qmatrix.h
+  注意: 包含文件:              D:\Qt\5.12.5\msvc2017_64\include\QtGui/qpolygon.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtGui/qtransform.h
+  注意: 包含文件:              D:\Qt\5.12.5\msvc2017_64\include\QtGui/qpainterpath.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtGui/qimage.h
+  注意: 包含文件:              D:\Qt\5.12.5\msvc2017_64\include\QtGui/qpaintdevice.h
+  注意: 包含文件:              D:\Qt\5.12.5\msvc2017_64\include\QtGui/qpixelformat.h
+  注意: 包含文件:             D:\Qt\5.12.5\msvc2017_64\include\QtGui/qpixmap.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtGui/qtextoption.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtGui/qglyphrun.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtGui/qrawfont.h
+  注意: 包含文件:            D:\Qt\5.12.5\msvc2017_64\include\QtGui/qfontdatabase.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtGui/qtextcursor.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/qtextdocument.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/qpalette.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qaccessible.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qaccessiblebridge.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qaccessibleobject.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/qaccessible.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qaccessibleplugin.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/qaccessible.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qbackingstore.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/qwindow.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtCore/QObject
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtCore/QEvent
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtCore/QMargins
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtCore/QRect
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtGui/qsurface.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtGui/qsurfaceformat.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtGui/qicon.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtGui/qcursor.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qbitmap.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qclipboard.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qdesktopservices.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qdrag.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qfontinfo.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qfontmetrics.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qgenericmatrix.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qgenericplugin.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qgenericpluginfactory.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringlist.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qguiapplication.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/qinputmethod.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qiconengine.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qiconengineplugin.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qimageiohandler.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qimagereader.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qimagewriter.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qmatrix4x4.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/qvector3d.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/qvector4d.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/qquaternion.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qmovie.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qoffscreensurface.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/QObject
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qopengl.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/qt_windows.h
+  注意: 包含文件:          C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\windows.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winapifamily.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winpackagefamily.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\sdkddkver.h
+  注意: 包含文件:           C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\excpt.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\windef.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\specstrings.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\specstrings_strict.h
+  注意: 包含文件:               C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\specstrings_undef.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\driverspecs.h
+  注意: 包含文件:               c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\sdv_driverspecs.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winnt.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\kernelspecs.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\basetsd.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\guiddef.h
+  注意: 包含文件:              c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack4.h
+  注意: 包含文件:              c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack4.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:              c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack4.h
+  注意: 包含文件:              c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack2.h
+  注意: 包含文件:              c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:              c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack2.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack2.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:              c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:              c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack8.h
+  注意: 包含文件:              c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:              c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack1.h
+  注意: 包含文件:              c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:              c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack1.h
+  注意: 包含文件:              c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:              c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\apiset.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\ktmtypes.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winbase.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\apisetcconv.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\minwinbase.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\apiquery2.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\processenv.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\fileapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\debugapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\utilapiset.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\handleapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\errhandlingapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\fibersapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\namedpipeapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\profileapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\heapapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\ioapiset.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\synchapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\interlockedapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\processthreadsapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\sysinfoapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\memoryapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\enclaveapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\threadpoollegacyapiset.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\threadpoolapiset.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\jobapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\jobapi2.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\wow64apiset.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\libloaderapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\securitybaseapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\namespaceapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\systemtopologyapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\processtopologyapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\securityappcontainer.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\realtimeapiset.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\timezoneapi.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\wingdi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack2.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack2.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack4.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack4.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winuser.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack2.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\tvout.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winnls.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\datetimeapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\stringapiset.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winnls.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\wincon.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\wincontypes.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\consoleapi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\consoleapi2.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\consoleapi3.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winver.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\verrsrc.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winreg.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\reason.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winnetwk.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\wnnc.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\cderr.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\dde.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\ddeml.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\dlgs.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\lzexpand.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmsystem.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmsyscom.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mciapi.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmsyscom.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmiscapi.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmsyscom.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmiscapi2.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmsyscom.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\playsoundapi.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmsyscom.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmeapi.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmsyscom.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\timeapi.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmsyscom.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\joystickapi.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmsyscom.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\nb30.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\rpc.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack8.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\rpcdce.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\rpcdcep.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\rpcnsi.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\rpcnterr.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\rpcasync.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack8.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\shellapi.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winperf.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack8.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winsock.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\inaddr.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\wincrypt.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\bcrypt.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\ncrypt.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\dpapi.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winefs.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winscard.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\wtypes.h
+  注意: 包含文件:             c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\rpcndr.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack8.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\rpcnsip.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\rpcsal.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:             c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\wtypesbase.h
+  注意: 包含文件:              c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\guiddef.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winioctl.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winsmcrd.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winspool.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\prsht.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack8.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\ole2.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack8.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\objbase.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack8.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\combaseapi.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack8.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\unknwnbase.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\objidlbase.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\guiddef.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\cguid.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\coml2api.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\objidl.h
+  注意: 包含文件:               c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\unknwn.h
+  注意: 包含文件:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\propidlbase.h
+  注意: 包含文件:               c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\oaidl.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\urlmon.h
+  注意: 包含文件:              c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\oleidl.h
+  注意: 包含文件:              c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\servprov.h
+  注意: 包含文件:              c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\msxml.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\propidl.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\oleauto.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack8.h
+  注意: 包含文件:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\commdlg.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\prsht.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\stralign.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winsvc.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mcx.h
+  注意: 包含文件:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\imm.h
+  注意: 包含文件:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\ime_cmodes.h
+  注意: 包含文件:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\GL/gl.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/qopenglext.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qopenglbuffer.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qopenglcontext.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/QObject
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/QScopedPointer
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/QSurfaceFormat
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/qopenglversionfunctions.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qopengldebug.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/qflags.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qopenglextrafunctions.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/qopenglfunctions.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qopenglframebufferobject.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qopenglpaintdevice.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qopenglpixeltransferoptions.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/QSharedDataPointer
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qopenglshaderprogram.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qopengltexture.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/QScopedPointer
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qopengltextureblitter.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/QMatrix3x3
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/QMatrix4x4
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qopengltimerquery.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/QObject
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qopenglvertexarrayobject.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/QObject
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qopenglwindow.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/QPaintDeviceWindow
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtgui\qpaintdevicewindow.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtGui/QWindow
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtGui/QPaintDevice
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/QOpenGLContext
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/QImage
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qpagedpaintdevice.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/qpagelayout.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtGui/qpagesize.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qpaintengine.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/qpainter.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qpdfwriter.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qpicture.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringlist.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qpictureformatplugin.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qpixmapcache.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qrasterwindow.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/QPaintDeviceWindow
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qscreen.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/QList
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/QObject
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/QRect
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/QSize
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/QSizeF
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/QTransform
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qsessionmanager.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringlist.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qstandarditemmodel.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qstatictext.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qstylehints.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qsyntaxhighlighter.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/qtextobject.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qtextdocumentfragment.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qtextdocumentwriter.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qtextlist.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qtexttable.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qvalidator.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtgui\qtguiversion.h
+  注意: 包含文件:       D:\Qt\5.12.5\msvc2017_64\include\QtWidgets\QtWidgets
+  注意: 包含文件:        D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/QtWidgetsDepends
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qtwidgetsglobal.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qtwidgets-config.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qabstractbutton.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qwidget.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qsizepolicy.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qabstractitemdelegate.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qstyleoption.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qabstractspinbox.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qslider.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qabstractslider.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qstyle.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qtabbar.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qtabwidget.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qrubberband.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qframe.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qabstractitemview.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qabstractscrollarea.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qaccessiblewidget.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qaction.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qactiongroup.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qaction.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qapplication.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qboxlayout.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qlayout.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qlayoutitem.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qboxlayout.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qgridlayout.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qlayout.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qbuttongroup.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qcalendarwidget.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qcheckbox.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qcolordialog.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qdialog.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qcolormap.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/qatomic.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qcolumnview.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qcombobox.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qcommandlinkbutton.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qpushbutton.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qcommonstyle.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qcompleter.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qdatawidgetmapper.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qdatetimeedit.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qdesktopwidget.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qdial.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qdialogbuttonbox.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qdirmodel.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qfileiconprovider.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qdockwidget.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qdrawutil.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qerrormessage.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qfiledialog.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qfilesystemmodel.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qfocusframe.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qfontcombobox.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qfontdialog.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qformlayout.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/QLayout
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qgesture.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qgesturerecognizer.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qgraphicsanchorlayout.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qgraphicsitem.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qgraphicslayout.h
+  注意: 包含文件:          D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qgraphicslayoutitem.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qgraphicseffect.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qgraphicsgridlayout.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qgraphicsitemanimation.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qgraphicslinearlayout.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qgraphicsproxywidget.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qgraphicswidget.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qgraphicsscene.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qgraphicssceneevent.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qgraphicstransform.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/QObject
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/QVector3D
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/QTransform
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/QMatrix4x4
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qgraphicsview.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qscrollarea.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qgroupbox.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qheaderview.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qinputdialog.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qlineedit.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qitemdelegate.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qitemeditorfactory.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qkeyeventtransition.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qkeysequenceedit.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qlabel.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qlcdnumber.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qlistview.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qlistwidget.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qmainwindow.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qmdiarea.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qmdisubwindow.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qmenu.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qmenubar.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qmessagebox.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qmouseeventtransition.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qopenglwidget.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/QWidget
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtGui/QSurfaceFormat
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qplaintextedit.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qtextedit.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qprogressbar.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qprogressdialog.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qproxystyle.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/QCommonStyle
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qradiobutton.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qscrollbar.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qscroller.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/QObject
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/QPointF
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/QScrollerProperties
+  注意: 包含文件:          d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qscrollerproperties.h
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/QScopedPointer
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/QMetaType
+  注意: 包含文件:           D:\Qt\5.12.5\msvc2017_64\include\QtCore/QVariant
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qshortcut.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qsizegrip.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qspinbox.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qsplashscreen.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qsplitter.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qstackedlayout.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qstackedwidget.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qstatusbar.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qstyleditemdelegate.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qstylefactory.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtCore/qstringlist.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qstylepainter.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qstyleplugin.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qsystemtrayicon.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qtableview.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qtablewidget.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qtextbrowser.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qtoolbar.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qtoolbox.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qtoolbutton.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qtooltip.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qtreeview.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qtreewidget.h
+  注意: 包含文件:         D:\Qt\5.12.5\msvc2017_64\include\QtWidgets/qtreewidgetitemiterator.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qundogroup.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qundostack.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qundoview.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qwhatsthis.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qwidgetaction.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qwizard.h
+  注意: 包含文件:        d:\qt\5.12.5\msvc2017_64\include\qtwidgets\qtwidgetsversion.h
+  define SPN_CMN_MATH_EXPORT --> (void) in Compiling d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_spn_cmn_math__global.h
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_SPN_Cmn_MATH.h
+  注意: 包含文件:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\math.h
+  注意: 包含文件:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\omp.h
+  注意: 包含文件:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\iostream
+  注意: 包含文件:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\sstream
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_From_atlTypes.h
+  注意: 包含文件:      d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_From_MFC_windef.h
+  注意: 包含文件:       d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_From_MFC_minWinDef.h
+  注意: 包含文件:        d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_From_MFC_intsafe.h
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_From_MFC_afxtempl.h
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_From_MFC_wtypes.h
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_From_VC_to_QT.h
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\SPN_Cmn_Math_Const.h
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\SPN_Cmn_Science.h
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\SPN_Cmn_CArray.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_carray.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\SPN_Cmn_LUT_Arr.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_lut_arr.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\SPN_Cmn_2DPoint.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  注意: 包含文件:      d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\SPN_Cmn_2DSize.h
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\SPN_Cmn_2DLine.h
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\SPN_Cmn_2DRect.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h(859): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\SPN_Cmn_3DPoint.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  注意: 包含文件:      d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\SPN_Cmn_MATRIX.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h(796): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\SPN_Cmn_3DLine.h
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\SPN_Cmn_3DCuboid.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h(1014): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\SPN_Cmn_3DMtx_Grid.h
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\SPN_Cmn_3DMtx.h
+  注意: 包含文件:      d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\SPN_Cmn_AttrSet.h
+  注意: 包含文件:       d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\SPN_Cmn_Math_Base.h
+  注意: 包含文件:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\math.h
+  注意: 包含文件:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\assert.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_math_base.h(22): warning C4005: “BYTE_MAX”: 宏重定义
+  d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_from_mfc_intsafe.h(89): note: 参见“BYTE_MAX”的前一个定义
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\SPN_Cmn_3DPlane.h
+  注意: 包含文件:     d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\SPN_Cmn_GUI_CoordSvr.h
+  注意: 包含文件:      D:\Qt\5.12.5\msvc2017_64\include\QtCore\QRect
+  注意: 包含文件:      D:\Qt\5.12.5\msvc2017_64\include\QtCore\QPointF
+  SPN_CMN_2DPoint.cxx
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  define SPN_CMN_MATH__MAKE_STC_LIB in Compiling OKd:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  11111111111111111111111111111111d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  define SPN_CMN_MATH_EXPORT --> (void) in Compiling d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_spn_cmn_math__global.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_carray.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_lut_arr.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h(859): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h(796): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h(1014): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_math_base.h(22): warning C4005: “BYTE_MAX”: 宏重定义
+  d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_from_mfc_intsafe.h(89): note: 参见“BYTE_MAX”的前一个定义
+  SPN_CMN_2DRect.cxx
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  define SPN_CMN_MATH__MAKE_STC_LIB in Compiling OKd:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  11111111111111111111111111111111d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  define SPN_CMN_MATH_EXPORT --> (void) in Compiling d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_spn_cmn_math__global.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_carray.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_lut_arr.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h(859): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h(796): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h(1014): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_math_base.h(22): warning C4005: “BYTE_MAX”: 宏重定义
+  d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_from_mfc_intsafe.h(89): note: 参见“BYTE_MAX”的前一个定义
+  SPN_CMN_2DSize.cxx
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  define SPN_CMN_MATH__MAKE_STC_LIB in Compiling OKd:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  11111111111111111111111111111111d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  define SPN_CMN_MATH_EXPORT --> (void) in Compiling d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_spn_cmn_math__global.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_carray.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_lut_arr.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h(859): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h(796): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h(1014): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_math_base.h(22): warning C4005: “BYTE_MAX”: 宏重定义
+  d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_from_mfc_intsafe.h(89): note: 参见“BYTE_MAX”的前一个定义
+  SPN_CMN_3DCuboid.cxx
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  define SPN_CMN_MATH__MAKE_STC_LIB in Compiling OKd:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  11111111111111111111111111111111d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  define SPN_CMN_MATH_EXPORT --> (void) in Compiling d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_spn_cmn_math__global.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_carray.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_lut_arr.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h(859): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h(796): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h(1014): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_math_base.h(22): warning C4005: “BYTE_MAX”: 宏重定义
+  d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_from_mfc_intsafe.h(89): note: 参见“BYTE_MAX”的前一个定义
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\spn_cmn_math\spn_cmn_3dcuboid.cxx(24): warning C4101: “sC3”: 未引用的局部变量
+  SPN_CMN_3DLine.cxx
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  define SPN_CMN_MATH__MAKE_STC_LIB in Compiling OKd:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  11111111111111111111111111111111d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  define SPN_CMN_MATH_EXPORT --> (void) in Compiling d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_spn_cmn_math__global.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_carray.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_lut_arr.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h(859): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h(796): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h(1014): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_math_base.h(22): warning C4005: “BYTE_MAX”: 宏重定义
+  d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_from_mfc_intsafe.h(89): note: 参见“BYTE_MAX”的前一个定义
+  SPN_CMN_3DPlane.cxx
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  define SPN_CMN_MATH__MAKE_STC_LIB in Compiling OKd:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  11111111111111111111111111111111d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  define SPN_CMN_MATH_EXPORT --> (void) in Compiling d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_spn_cmn_math__global.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_carray.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_lut_arr.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h(859): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h(796): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h(1014): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_math_base.h(22): warning C4005: “BYTE_MAX”: 宏重定义
+  d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_from_mfc_intsafe.h(89): note: 参见“BYTE_MAX”的前一个定义
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\spn_cmn_math\spn_cmn_3dplane.cxx(223): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\spn_cmn_math\spn_cmn_3dplane.cxx(261): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\spn_cmn_math\spn_cmn_3dplane.cxx(406): warning C4838: 从“double”转换到“float”需要收缩转换
+  SPN_CMN_3DPoint.cxx
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  define SPN_CMN_MATH__MAKE_STC_LIB in Compiling OKd:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  11111111111111111111111111111111d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  define SPN_CMN_MATH_EXPORT --> (void) in Compiling d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_spn_cmn_math__global.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_carray.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_lut_arr.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h(859): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h(796): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h(1014): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_math_base.h(22): warning C4005: “BYTE_MAX”: 宏重定义
+  d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_from_mfc_intsafe.h(89): note: 参见“BYTE_MAX”的前一个定义
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\spn_cmn_math\spn_cmn_3dpoint.cxx(56): warning C4101: “P”: 未引用的局部变量
+  SPN_Cmn_3DMtx.cxx
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  define SPN_CMN_MATH__MAKE_STC_LIB in Compiling OKd:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  11111111111111111111111111111111d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  define SPN_CMN_MATH_EXPORT --> (void) in Compiling d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_spn_cmn_math__global.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_carray.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_lut_arr.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h(859): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h(796): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h(1014): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_math_base.h(22): warning C4005: “BYTE_MAX”: 宏重定义
+  d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_from_mfc_intsafe.h(89): note: 参见“BYTE_MAX”的前一个定义
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\spn_cmn_math\spn_cmn_3dmtx.cxx(41): warning C4305: “参数”: 从“int”到“TP_Vox”截断
+          with
+          [
+              TP_Vox=BYTE
+          ]
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\spn_cmn_math\spn_cmn_3dmtx.cxx(41): warning C4309: “参数”: 截断常量值
+  SPN_Cmn_AttrSet.cxx
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  define SPN_CMN_MATH__MAKE_STC_LIB in Compiling OKd:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  11111111111111111111111111111111d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  define SPN_CMN_MATH_EXPORT --> (void) in Compiling d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_spn_cmn_math__global.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_carray.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_lut_arr.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h(859): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h(796): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h(1014): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_math_base.h(22): warning C4005: “BYTE_MAX”: 宏重定义
+  d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_from_mfc_intsafe.h(89): note: 参见“BYTE_MAX”的前一个定义
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\spn_cmn_math\spn_cmn_attrset.cxx(137): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\spn_cmn_math\spn_cmn_attrset.cxx(146): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  SPN_Cmn_GUI_CoordSvr.cxx
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  define SPN_CMN_MATH__MAKE_STC_LIB in Compiling OKd:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  11111111111111111111111111111111d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  define SPN_CMN_MATH_EXPORT --> (void) in Compiling d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_spn_cmn_math__global.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_carray.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_lut_arr.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h(859): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h(796): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h(1014): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_math_base.h(22): warning C4005: “BYTE_MAX”: 宏重定义
+  d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_from_mfc_intsafe.h(89): note: 参见“BYTE_MAX”的前一个定义
+  SPN_Cmn_Math.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  define SPN_CMN_MATH__MAKE_STC_LIB in Compiling OKd:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  11111111111111111111111111111111d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  define SPN_CMN_MATH_EXPORT --> (void) in Compiling d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_spn_cmn_math__global.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_carray.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_lut_arr.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h(859): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h(796): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h(1014): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_math_base.h(22): warning C4005: “BYTE_MAX”: 宏重定义
+  d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_from_mfc_intsafe.h(89): note: 参见“BYTE_MAX”的前一个定义
+  SPN_Cmn_Science.cxx
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  define SPN_CMN_MATH__MAKE_STC_LIB in Compiling OKd:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  11111111111111111111111111111111d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\all_entry\_spn_cmn_math__include.h
+  define SPN_CMN_MATH_EXPORT --> (void) in Compiling d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_spn_cmn_math__global.h
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_carray.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_lut_arr.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_2drect.h(859): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dpoint.h(796): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_3dcuboid.h(1014): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\spn_cmn_math_base.h(22): warning C4005: “BYTE_MAX”: 宏重定义
+  d:\_spinecad\1_dev\hly_med_spinecad\hly_med_spinecad\lib_rslt\includes\spn_cmn_math__include\_from_mfc_intsafe.h(89): note: 参见“BYTE_MAX”的前一个定义
+  正在生成代码...
+  HLY_Cmn_Math.vcxproj -> D:\_SpineCAD\1_Dev\HLY_Med_SpineCAD\HLY_Med_SpineCAD\Lib_Rslt\bin\x64\RLSwDBG\HLY_Cmn_Math.lib
